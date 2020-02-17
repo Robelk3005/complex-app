@@ -142,7 +142,7 @@ Post.findByAuthorId = function (authorId) {
 
 }
 
-//coment
+//coments
 
 
 
